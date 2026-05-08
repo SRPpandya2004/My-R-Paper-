@@ -1,4 +1,4 @@
-# My-R-Paper-
+# My-R-Paper
 
 # Face Recognition Retrieval System using FAISS
 
